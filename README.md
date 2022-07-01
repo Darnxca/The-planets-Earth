@@ -1,5 +1,4 @@
-# The-planets-Earth
-## Progetto per il corso di studio di penetration testing
+# Progetto per il corso di studio di penetration testing
 
 La macchina su cui è stato effettuao il penetration testing è presente al seguente link: https://www.vulnhub.com/entry/the-planets-earth,755/
 
